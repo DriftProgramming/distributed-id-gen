@@ -3,7 +3,7 @@
 #### Reference
 - https://github.com/baidu/uid-generator
 
-#### 1. Setup Multiple Envs:
+#### 1. Setup Multiple Envs(local,uat,prod):
 
 - src/main/resources/application.properties : common settings for all envs.
 - src/main/resources/application-local.properties: specific settings(e.g.: database) for `local` env.
